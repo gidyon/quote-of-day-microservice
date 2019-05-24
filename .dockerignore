@@ -1,0 +1,6 @@
+docker-compose.yml
+Makefile
+model/
+app.go
+app.txt
+
